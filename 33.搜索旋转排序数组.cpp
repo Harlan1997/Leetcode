@@ -5,7 +5,7 @@
  */
 
 // @lc code=start
-#include "leetcode.h"
+//#include "leetcode.h"
 class Solution {
 public:
 
@@ -22,7 +22,7 @@ public:
     }
 
     int search(vector<int>& nums, int target) {
-
+        
     }
 };
 // @lc code=end
